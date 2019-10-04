@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="shanghai">Asia/Shanghai</string>
+    <string name="toronto">America/Toronto</string>
+    <string name="tokyo">Asia/Tokyo</string>
+    <string name="sydney">Australia/Sydney</string>
+    <string name="new_york">America/New_York</string>
+</resources>
